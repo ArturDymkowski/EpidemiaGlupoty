@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1eb6615c-24c0-42cd-8a45-1a4ef1c2c6d2" name="webd" url="http://wn16.webd.pl">
+        <fileTransfer rootFolder="/public_html/epidemiaglupoty" host="wn16.webd.pl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
